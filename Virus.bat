@@ -4,8 +4,8 @@ color 4
 cls
 echo =========================================
 echo                                         !
-echo            Ultra Virus 1.0              +
-echo                                         ! 
+echo                 Virus 1.0               +
+echo         Made by BlackBatman1980         ! 
 echo =========================================
 echo [!] Exit Terminal To Terminate Program
 echo =========================================
