@@ -1,5 +1,5 @@
 # Windows-Batch-Virus
-Self replicating, Ram Ripping virus.
+Simple, Self replicating, Ram Ripping virus.
 This Virus creates junk .dll files and starts big services like chrome.exe,
 Combine this with self replication and the victim has now way to stop it.
 It will slow victim's computer until it crashes.
